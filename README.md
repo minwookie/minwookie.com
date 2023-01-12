@@ -1,2 +1,2 @@
 # minwookie.com
-Building Personal Website
+Building A Personal Website From Scratch
